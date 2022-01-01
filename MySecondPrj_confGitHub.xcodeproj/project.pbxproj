@@ -16,6 +16,7 @@
 		6B287FF727804936001391F8 /* MySecondPrj_confGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B287FF627804936001391F8 /* MySecondPrj_confGitHubTests.swift */; };
 		6B28800127804936001391F8 /* MySecondPrj_confGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B28800027804936001391F8 /* MySecondPrj_confGitHubUITests.swift */; };
 		6B28800327804936001391F8 /* MySecondPrj_confGitHubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B28800227804936001391F8 /* MySecondPrj_confGitHubUITestsLaunchTests.swift */; };
+		6B28801027804A44001391F8 /* MySecondPrj_confGitHub in Resources */ = {isa = PBXBuildFile; fileRef = 6B28800F27804A44001391F8 /* MySecondPrj_confGitHub */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6B287FFC27804936001391F8 /* MySecondPrj_confGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MySecondPrj_confGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B28800027804936001391F8 /* MySecondPrj_confGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySecondPrj_confGitHubUITests.swift; sourceTree = "<group>"; };
 		6B28800227804936001391F8 /* MySecondPrj_confGitHubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySecondPrj_confGitHubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6B28800F27804A44001391F8 /* MySecondPrj_confGitHub */ = {isa = PBXFileReference; lastKnownFileType = folder; name = MySecondPrj_confGitHub; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6B287FE127804934001391F8 /* SceneDelegate.swift */,
 				6B287FE327804934001391F8 /* ViewController.swift */,
 				6B287FE527804934001391F8 /* Main.storyboard */,
+				6B28800F27804A44001391F8 /* MySecondPrj_confGitHub */,
 				6B287FE827804936001391F8 /* Assets.xcassets */,
 				6B287FEA27804936001391F8 /* LaunchScreen.storyboard */,
 				6B287FED27804936001391F8 /* Info.plist */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B28801027804A44001391F8 /* MySecondPrj_confGitHub in Resources */,
 				6B287FEC27804936001391F8 /* LaunchScreen.storyboard in Resources */,
 				6B287FE927804936001391F8 /* Assets.xcassets in Resources */,
 				6B287FE727804934001391F8 /* Main.storyboard in Resources */,
@@ -445,6 +449,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -473,6 +478,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
